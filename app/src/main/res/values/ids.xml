@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTextPersonName" type="id" />
+    <item name="editTextTextPostalAddress" type="id" />
+    <item name="editTextPhone" type="id" />
+    <item name="editTextTextEmailAddress" type="id" />
+    <item name="editTextDate2" type="id" />
+    <item name="radioButton3" type="id" />
+    <item name="radioButton4" type="id" />
+    <item name="radioButton5" type="id" />
+</resources>
